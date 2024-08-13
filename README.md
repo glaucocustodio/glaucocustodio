@@ -1,3 +1,11 @@
+### Hey, I'm Glauco 👋🏻
+
+
+- Born in Brazil 🇧🇷
+- Living in Portugal 🇵🇹
+- 15+ years of experience with web development 👨🏻‍💻
+- Creator of [Even Better Specs](https://evenbetterspecs.github.io), my take on how to write better tests
+
 ### Relevant open source contributions
 
 | Project       | Language      | Contributions   |
