@@ -1,10 +1,10 @@
 ### Hey, I'm Glauco 👋🏻
 
 
-- Born in Brazil 🇧🇷
-- Living in Portugal 🇵🇹
-- 15+ years of experience with web development 👨🏻‍💻
-- 10+ years of experience with Ruby and Ruby on Rails 🚂
+- Born in Brazil 🇧🇷 - currently living in Portugal 🇵🇹
+- 15+ years of experience with **web development** 👨🏻‍💻
+- 10+ years of experience with **Ruby** and **Ruby on Rails** 🚂
+- 5+ years of experience **leading tech teams**
 - Creator of [Even Better Specs](https://evenbetterspecs.github.io) (my take on how to write better tests)
 
 ### Relevant open source contributions
