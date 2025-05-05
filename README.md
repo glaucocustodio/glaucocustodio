@@ -1,11 +1,10 @@
-### Hey, I'm Glauco 👋🏻
-
+### Hey, I'm Glauco Custodio 👋🏻
 
 - Born in Brazil 🇧🇷 - currently living in Portugal 🇵🇹
 - 15+ years of experience with **web development** 👨🏻‍💻
 - 10+ years of experience with **Ruby** and **Ruby on Rails** 🚂
-- 5+ years of experience **leading tech teams**
-- Creator of [Even Better Specs](https://evenbetterspecs.github.io) (my take on how to write better tests)
+- 5+ years of experience **leading tech teams** 🤓
+- Creator of [Even Better Specs](https://evenbetterspecs.github.io) ✅ and [Tanakai](https://github.com/glaucocustodio/tanakai) 🕷️
 
 ### Relevant open source contributions
 
