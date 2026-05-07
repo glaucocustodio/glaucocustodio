@@ -10,7 +10,7 @@
 
 | Project       | Language      | Contributions   |
 | ------------- | ------------- | -------------   |
-| [Ruby on Rails](https://github.com/rails/rails) | Ruby  | [#23895](https://github.com/rails/rails/pull/23895), [#29758](https://github.com/rails/rails/pull/29758), [#49897](https://github.com/rails/rails/pull/49897) |
+| [Ruby on Rails](https://github.com/rails/rails) | Ruby  | [#23895](https://github.com/rails/rails/pull/23895), [#29758](https://github.com/rails/rails/pull/29758), [#49897](https://github.com/rails/rails/pull/49897), [56807](https://github.com/rails/rails/pull/56807) |
 | [LangChain](https://github.com/langchain-ai/langchain)  | Python  | [#9068](https://github.com/langchain-ai/langchain/pull/9068)
 | [Grape](https://github.com/ruby-grape/grape) | Ruby  | [#1443](https://github.com/ruby-grape/grape/pull/1443), [#1674](https://github.com/ruby-grape/grape/pull/1674), [#1850](https://github.com/ruby-grape/grape/pull/1850), [#1852](https://github.com/ruby-grape/grape/pull/1852), [among others...](https://github.com/ruby-grape/grape/pulls?q=is%3Apr+author%3Aglaucocustodio+is%3Aclosed) |
 | [OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal)  | Python  | [#2386](https://github.com/OpenBB-finance/OpenBBTerminal/pull/2386) |
