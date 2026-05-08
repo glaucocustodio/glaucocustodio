@@ -12,9 +12,10 @@
 | ------------- | ------------- | -------------   |
 | [Ruby on Rails](https://github.com/rails/rails) | Ruby  | [#23895](https://github.com/rails/rails/pull/23895), [#29758](https://github.com/rails/rails/pull/29758), [#49897](https://github.com/rails/rails/pull/49897), [56807](https://github.com/rails/rails/pull/56807) |
 | [LangChain](https://github.com/langchain-ai/langchain)  | Python  | [#9068](https://github.com/langchain-ai/langchain/pull/9068)
-| [Grape](https://github.com/ruby-grape/grape) | Ruby  | [#1443](https://github.com/ruby-grape/grape/pull/1443), [#1674](https://github.com/ruby-grape/grape/pull/1674), [#1850](https://github.com/ruby-grape/grape/pull/1850), [#1852](https://github.com/ruby-grape/grape/pull/1852), [among others...](https://github.com/ruby-grape/grape/pulls?q=is%3Apr+author%3Aglaucocustodio+is%3Aclosed) |
 | [OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal)  | Python  | [#2386](https://github.com/OpenBB-finance/OpenBBTerminal/pull/2386) |
+| [Grape](https://github.com/ruby-grape/grape) | Ruby  | [#1443](https://github.com/ruby-grape/grape/pull/1443), [#1674](https://github.com/ruby-grape/grape/pull/1674), [#1850](https://github.com/ruby-grape/grape/pull/1850), [#1852](https://github.com/ruby-grape/grape/pull/1852), [among others...](https://github.com/ruby-grape/grape/pulls?q=is%3Apr+author%3Aglaucocustodio+is%3Aclosed) |
 | [Floki](https://github.com/philss/floki)  | Elixir  | [#33](https://github.com/philss/floki/pull/33), [#34](https://github.com/philss/floki/pull/34) |
+| [Polaris ViewComponents](https://github.com/baoagency/polaris_view_components)  | Ruby  | [#481](https://github.com/baoagency/polaris_view_components/pull/481), [#486](https://github.com/baoagency/polaris_view_components/pull/486) |
 | [Avo](https://github.com/avo-hq/avo/)  | Ruby  | [#1634](https://github.com/avo-hq/avo/pull/1634), [#29](https://github.com/avo-hq/avodocs/pull/29) |
 | [CTags](https://github.com/SublimeText/CTags)  | Python  | [#339](https://github.com/SublimeText/CTags/pull/339), [#340](https://github.com/SublimeText/CTags/pull/340) |
 | [Devo](https://github.com/karakanb/devo/)  | JavaScript  | [#91](https://github.com/karakanb/devo/pull/91) |
